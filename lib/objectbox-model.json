@@ -1,0 +1,72 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:1832771621720988779",
+      "lastPropertyId": "9:6281084658745519037",
+      "name": "BookModel",
+      "properties": [
+        {
+          "id": "1:6250744827412055531",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2944763619827665034",
+          "name": "bookCode",
+          "type": 9
+        },
+        {
+          "id": "3:5805634414116402359",
+          "name": "isbn",
+          "type": 9
+        },
+        {
+          "id": "4:1980427593471774507",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "5:7641263196701340972",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "6:4267845246189342005",
+          "name": "category",
+          "type": 9
+        },
+        {
+          "id": "7:2263706391707619230",
+          "name": "publishedDate",
+          "type": 9
+        },
+        {
+          "id": "8:3454720650623118256",
+          "name": "price",
+          "type": 8
+        },
+        {
+          "id": "9:6281084658745519037",
+          "name": "hardCover",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:1832771621720988779",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
